@@ -25,24 +25,26 @@ The geometry app has 2D and 3D functions for calculating shapes perimeters and a
 - Calculate cone volume
 
 
-
+## Technologies Used
   
 This application is implemented with:
 
-## Back-end Technologies:
+### Back-end Technologies:
 
 - Python
 - Flask
 
-## Front-end Technologies:
+### Front-end Technologies:
 
 - HTML
 - CSS
 - Bootstrap
 
+<!--
 ## Challenges
 - Challenge:
 - Challenge: 
+-->
 
 ## Future implementations 
 
@@ -61,7 +63,7 @@ This application is implemented with:
 
 ### Installing dependencies
 
-#### Setting up the development environment:
+    Setting up the development environment:
 
             mkdir project
             cd project
@@ -70,7 +72,7 @@ This application is implemented with:
             pip install flask
        
   ### Running the project
-  #### To run the project:
+    To run the project:
            python3 run.py
 
 ## Using the project
@@ -88,8 +90,12 @@ This application is implemented with:
      - System Design
 
 ## References
-   - Python:
-   - Flask:
+   - [Python]()
+   - [Flask]()
+
+## Available Documentation
+   - [Geometry App Reference Document]()
+
      
  
 
